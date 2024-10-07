@@ -1,6 +1,6 @@
 # CALCULATOR APP 
 
-## Key skills:Pyrhon,streamlit 
+## Key skills:Python,streamlit 
 
 1. This is used to basic calculation 
 2.Easy python code
